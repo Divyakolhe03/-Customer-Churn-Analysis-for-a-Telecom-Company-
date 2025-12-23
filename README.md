@@ -7,9 +7,13 @@ Customer churn is a critical challenge in the telecom industry. This project foc
 🎯 Objectives
 
 Measure and analyze customer churn
+
 Identify high-risk customers and churn-prone segments
+
 Understand the impact of service plans, pricing, and demographics on churn
+
 Estimate revenue loss due to churn
+
 Build an interactive dashboard for decision-making
 
 🛠 Tools & Technologies
