@@ -1,4 +1,5 @@
 📊 Customer Churn Analysis for a Telecom Company
+
 📌 Project Overview
 
 Customer churn is a critical challenge in the telecom industry. This project focuses on analyzing customer behavior to identify churn patterns, high-risk customers, and key factors contributing to attrition. The insights generated can help businesses reduce churn, improve customer retention, and optimize revenue.
